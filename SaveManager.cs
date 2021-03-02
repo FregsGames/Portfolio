@@ -1,3 +1,9 @@
+/***
+I use this file to save data (integers, floats and strings), 
+like Unity PlayerPrefs does, but I store the in the Application Path 
+and it is valid for PC or Android.
+***/
+
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
