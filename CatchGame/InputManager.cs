@@ -1,3 +1,11 @@
+/***
+This is a central script that controls the inputs that the player does. 
+It's kinda messy but this way I just have to worry about one script when 
+it comes to manage different inputs from differents systems.
+It is not updated to the "retail" version, this is just a prototype for the moment.
+***/
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
